@@ -1,0 +1,10 @@
+xxx
+yyy
+http://localhost/
+zzz
+
+^
+Client ID
+Client Secret
+Redirect URL
+Username
